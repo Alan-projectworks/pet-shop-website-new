@@ -4,7 +4,7 @@ A responsive pet shop landing page built with plain HTML and CSS
 (no frameworks) as a self-study project — covering navbar, hero 
 section, product cards, and a fully custom design system.
 
-🔗 Live demo: https://yourusername.github.io/pet-shop-website/
+🔗 Live demo: https://github.com/Alan-projectworks/pet-shop-website-new
 
 ## What I practiced
 - Flexbox and CSS Grid layouts
